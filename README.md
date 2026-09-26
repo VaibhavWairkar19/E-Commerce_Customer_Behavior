@@ -60,7 +60,7 @@ E-commerce_project/
 
 1. Clone this repo:
    ```
-   git clone https://github.com/VaibhavEng23/<your-repo-name>.git
+   git clone https://github.com/VaibhavWairkar19/<your-repo-name>.git
    ```
 2. Open `Code/E-Commerce_Customer_Behavior.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source paths to point to the CSV files in the `Dataset/` folder.
